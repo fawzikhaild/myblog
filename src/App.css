@@ -1,0 +1,13 @@
+body{
+  font-family: 'signika Negative';
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+font-size: 23px;
+background-color: beige;
+color: rgb(51, 49, 49);
+}
+#root{
+  height: 100%;
+  overflow-x: hidden;
+}
